@@ -48,6 +48,8 @@ Enjoy!!
 #### A short glimpse of the game
 <img width="300" alt="Screenshot 2024-07-10 at 6 51 45 PM" src="https://github.com/user-attachments/assets/23329ea3-42d1-4d87-8fe1-2b0f01a9bf6d">
 
+#### Acknowledgments
+A huge thank you to my team for their encouragement and understanding.
 
 #### Citations:
 Free Assets:
